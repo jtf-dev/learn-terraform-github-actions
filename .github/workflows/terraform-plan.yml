@@ -1,4 +1,3 @@
-# terraform-plan.yml
 name: "Terraform Plan"
 
 on:
